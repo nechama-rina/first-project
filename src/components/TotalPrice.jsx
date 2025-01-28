@@ -7,7 +7,7 @@ const TotalPrice=()=>{
     };
     return(
         <div>
-          <p>Total Price: {totalPrice()}</p>
+          <p>Total Price- I love to know the totalPrice -devora: {totalPrice()}</p>
         </div>
     )
 }

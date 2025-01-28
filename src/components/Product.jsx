@@ -6,6 +6,8 @@ const Product = ({ product }) => {
     return (
         <div>
            <p>Product Data</p>
+           <h1>😂😂😊😊😘😍</h1>
+           <h2>💋💖😃🎶</h2>
            <p>Name: {product.name}</p>
            <p>Price: {product.price}</p>
            <button onClick={() => {dispatch(deleteProduct(product.id)); }} >Remove</button>
